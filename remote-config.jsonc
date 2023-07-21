@@ -17,7 +17,7 @@
 			"messages": [
 				{
 					"message": "We’re actively looking for financial sponsors! https://github.com/sponsors/ddev"
-				},
+				},,
 				{
 					"message": "A 403 from your project may mean the docroot is not specified or `index.php` is missing."
 				},
