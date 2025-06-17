@@ -1,6 +1,11 @@
 {
   // Update interval of the remote config in hours.
   "update-interval": 10,
+  "DDEVSponsorshipStatus": {
+    "current": 7200,
+    "goal": 12000
+  },
+
   // Messages shown to the user.
   "messages": {
     // Infos and warnings are shown on almost every ddev command and
